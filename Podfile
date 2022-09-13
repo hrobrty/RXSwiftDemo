@@ -13,4 +13,5 @@ target 'RXSwiftDemo' do
   pod 'RxCocoa'
   pod 'RxDataSources'
   pod 'SwiftDate'
+  pod 'Then'
 end
